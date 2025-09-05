@@ -48,7 +48,10 @@ src/
 ## 📸 Screenshot of My Project
 
 ![Portfolio Screenshot](https://drive.google.com/uc?export=view&id=1cXawfAFqAQHtsQtsMNfyVcNDTJsjSTo1)
-![Portfolio Screenshot](https://drive.google.com/file/d/1FA8Op5wRafdJxjJcU6TKjxFzRQvPbltM/view?usp=sharing)
+
+
+![Portfolio Screenshot](https://drive.google.com/uc?export=view&id=1FA8Op5wRafdJxjJcU6TKjxFzRQvPbltM)
+
 
 ## 🚀 Getting Started
 
