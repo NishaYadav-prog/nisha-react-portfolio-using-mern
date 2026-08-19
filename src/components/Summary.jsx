@@ -15,7 +15,7 @@ export default function Summary() {
           <div className="w-72 h-72 relative">
             <div className="absolute inset-0 rounded-[60%] bg-gradient-to-r from-pink-400 via-purple-500 to-cyan-400 blur-2xl animate-pulse opacity-60"></div>
             <img
-              src="/Nishayadav.jpg" // public folder me rakho
+              src="/Nishayadav.jpeg" // public folder me rakho
               alt="Nisha Yadav"
               className="relative z-10 w-72 h-72 object-cover rounded-[60%] border-4 border-white shadow-xl"
             />
