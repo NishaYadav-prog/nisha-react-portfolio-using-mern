@@ -58,7 +58,7 @@ export default function Hero() {
         >
           <div className="p-1 rounded-full bg-gradient-to-r from-pink-400 via-purple-500 to-cyan-400 hover:scale-105 transition shadow-[0_0_40px_#ec4899]">
             <img
-              src="/nishayadav.jpg" // 👈 public folder me rakho
+              src="/Nishayadav.jpeg" // 👈 public folder me rakho
               alt="Nisha Yadav"
               className="w-72 h-72 object-cover rounded-full"
             />
